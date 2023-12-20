@@ -10,7 +10,7 @@
   "compilerOptions": {
     "composite": true,
     "module": "ES6",
-    "moduleResolution": "Bundler",
+    "moduleResolution": "node",
     "types": ["node"]
   }
 }
