@@ -8,7 +8,7 @@ export default {
   components: { Tag },
 
   props: {
-    ingredientes: { type: Array as PropType<String[]>, required: true }
+    ingredientes: { type: Array as PropType<string[]>, required: true }
   }
 }
 </script>
